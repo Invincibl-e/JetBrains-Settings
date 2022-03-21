@@ -12,6 +12,18 @@
         <target value="Android 8.1" />
         <api value="27" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8CDX1MV0C" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-21T10:09:30.025593Z" />
+        <name value="Google Pixel 3" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
