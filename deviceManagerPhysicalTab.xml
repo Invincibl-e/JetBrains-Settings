@@ -8,6 +8,7 @@
             <value value="c8e2143" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-03-22T06:00:32.076470Z" />
         <name value="OPPO PBAM00" />
         <target value="Android 8.1" />
         <api value="27" />
@@ -30,10 +31,20 @@
             <value value="d50bd23d" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-22T02:34:43.477814Z" />
         <name value="OnePlus IN2010" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="7b2f6a56" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi 10" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
