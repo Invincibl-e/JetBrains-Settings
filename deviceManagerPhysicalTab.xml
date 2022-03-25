@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="d50bd23d" />
+          </Key>
+        </key>
+        <name value="OnePlus IN2010" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="c8e2143" />
           </Key>
         </key>
@@ -28,17 +39,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="d50bd23d" />
-          </Key>
-        </key>
-        <name value="OnePlus IN2010" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="7b2f6a56" />
           </Key>
         </key>
@@ -56,6 +56,18 @@
         <name value="vivo V2136A" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="d72083f0" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-25T10:34:24.961910Z" />
+        <name value="vivo V1981A" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
