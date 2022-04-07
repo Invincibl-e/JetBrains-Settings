@@ -8,6 +8,7 @@
             <value value="8CDX1MV0C" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-04-07T04:30:12.774857Z" />
         <name value="Google AOSP on blueline" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -74,7 +75,6 @@
             <value value="7PRNW20804003281" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-07T03:40:47.129773Z" />
         <name value="HUAWEI STK-AL00" />
         <target value="Android 9.0" />
         <api value="28" />
