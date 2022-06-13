@@ -5,10 +5,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="RUS5T20C17003357" />
+          </Key>
+        </key>
+        <name value="HUAWEI LIO-AN00m" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="d50bd23d" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-06T03:32:39.476443Z" />
         <name value="OnePlus IN2010" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -86,7 +96,6 @@
             <value value="172.26.205.9:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-06T04:26:55.408018Z" />
         <name value="Google AOSP on blueline" />
         <target value="Android 12.0" />
         <api value="31" />
