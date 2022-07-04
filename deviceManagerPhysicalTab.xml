@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="f85ac02c" />
+          </Key>
+        </key>
+        <name value="OPPO PFEM10" />
+        <target value="Android API 33" />
+        <api value="Tiramisu" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="RUS5T20C17003357" />
           </Key>
         </key>
