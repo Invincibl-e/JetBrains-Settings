@@ -18,6 +18,10 @@
           <option name="url" value="https://oauth2:xfenzySL9_vUhfBim3hA@git.gametaptap.com/android/android-cn/taptap-client-cn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oauth2:xfenzySL9_vUhfBim3hA@git.gametaptap.com/android/android-cn/sandbox-float.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project" />
