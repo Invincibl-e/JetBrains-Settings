@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="QXNUT21C21002978" />
+          </Key>
+        </key>
+        <name value="HUAWEI RTE-AL00" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="d50bd23d" />
           </Key>
         </key>
