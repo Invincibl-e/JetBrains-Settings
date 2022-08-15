@@ -221,6 +221,17 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="95dfe3e2" />
+          </Key>
+        </key>
+        <name value="vivo vivo Xplay5S" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
