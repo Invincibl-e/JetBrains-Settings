@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Media" />
     <option name="nonFavorites">
       <list>
+        <option value="Media" />
+        <option value="f" />
         <option value="secc" />
         <option value="does not support input device matching." />
         <option value="analyzePackageLocked" />
