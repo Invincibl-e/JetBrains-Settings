@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="secc" />
         <option value="does not support input device matching." />
         <option value="analyzePackageLocked" />
         <option value="resolveContentProvider" />
