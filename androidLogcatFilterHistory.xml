@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="resolveContentProvider" />
+    <option name="mostRecentlyUsed" value="analyzePackageLocked" />
     <option name="nonFavorites">
       <list>
+        <option value="analyzePackageLocked" />
         <option value="resolveContentProvider" />
         <option value="packagine" />
       </list>
