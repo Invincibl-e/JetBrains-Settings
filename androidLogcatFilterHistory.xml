@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="SPELL" />
     <option name="nonFavorites">
       <list>
+        <option value="SPELL" />
+        <option value="spell" />
+        <option value="pid-2018" />
+        <option value="pid-2018  " />
+        <option value="Spell" />
         <option value="pid-20832 " />
         <option value="jav" />
         <option value="getCurrentSpellCheckerSubtype" />
