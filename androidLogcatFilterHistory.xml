@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="getPackagesForUid" />
         <option value="SPELL" />
         <option value="spell" />
         <option value="pid-2018" />
