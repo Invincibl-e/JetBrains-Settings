@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="storage/" />
         <option value="getPackagesForUid" />
         <option value="SPELL" />
         <option value="spell" />
@@ -22,7 +23,6 @@
         <option value="does not support input device matching." />
         <option value="analyzePackageLocked" />
         <option value="resolveContentProvider" />
-        <option value="packagine" />
       </list>
     </option>
   </component>
