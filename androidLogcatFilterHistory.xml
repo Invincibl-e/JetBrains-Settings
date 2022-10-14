@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="startActivity" />
         <option value="mPackages" />
         <option value="package:mine " />
         <option value="storage/" />
@@ -22,7 +23,6 @@
         <option value="Media" />
         <option value="f" />
         <option value="secc" />
-        <option value="does not support input device matching." />
       </list>
     </option>
   </component>
