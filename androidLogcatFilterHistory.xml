@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="texture_allocation_size" />
         <option value="by setView" />
         <option value="startActivity" />
         <option value="mPackages" />
@@ -22,7 +23,6 @@
         <option value="com.taptap" />
         <option value="TextS" />
         <option value="Media" />
-        <option value="f" />
       </list>
     </option>
   </component>
