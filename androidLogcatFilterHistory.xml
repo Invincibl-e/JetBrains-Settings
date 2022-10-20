@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="MyWindowManager" />
     <option name="nonFavorites">
       <list>
+        <option value="MyWindowManager" />
         <option value="getDefaultDisplay" />
         <option value="BaseLib" />
         <option value="texture_allocation_size" />
@@ -22,7 +23,6 @@
         <option value="getCurrentSpellCheckerSubtype" />
         <option value="Themis" />
         <option value="INTERACT_ACROSS_USERS_FULL" />
-        <option value="com.taptap" />
       </list>
     </option>
   </component>
