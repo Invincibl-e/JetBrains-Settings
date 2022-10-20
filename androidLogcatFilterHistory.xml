@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BaseLib" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="getDefaultDisplay" />
         <option value="BaseLib" />
         <option value="texture_allocation_size" />
         <option value="by setView" />
@@ -22,7 +23,6 @@
         <option value="Themis" />
         <option value="INTERACT_ACROSS_USERS_FULL" />
         <option value="com.taptap" />
-        <option value="TextS" />
       </list>
     </option>
   </component>
