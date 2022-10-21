@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="IWi" />
+    <option name="mostRecentlyUsed" value="webviewupdate" />
     <option name="nonFavorites">
       <list>
+        <option value="webviewupdate" />
+        <option value="IWebViewUpdateService" />
         <option value="IWi" />
         <option value="MyWindowManager" />
         <option value="getDefaultDisplay" />
@@ -21,8 +23,6 @@
         <option value="Spell" />
         <option value="pid-20832 " />
         <option value="jav" />
-        <option value="getCurrentSpellCheckerSubtype" />
-        <option value="Themis" />
       </list>
     </option>
   </component>
