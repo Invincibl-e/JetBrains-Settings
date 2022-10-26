@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="webviewupdate" />
         <option value="IWebViewUpdateService" />
         <option value="IWi" />
@@ -13,7 +14,6 @@
         <option value="by setView" />
         <option value="startActivity" />
         <option value="mPackages" />
-        <option value="package:mine " />
         <option value="storage/" />
         <option value="getPackagesForUid" />
         <option value="SPELL" />
