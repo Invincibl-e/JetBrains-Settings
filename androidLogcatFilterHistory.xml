@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="webviewupdate" />
         <option value="IWebViewUpdateService" />
@@ -22,7 +22,6 @@
         <option value="pid-2018  " />
         <option value="Spell" />
         <option value="pid-20832 " />
-        <option value="jav" />
       </list>
     </option>
   </component>
