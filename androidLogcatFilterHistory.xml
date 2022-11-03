@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="AccessibilityProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="AccessibilityProvider" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="webviewupdate" />
@@ -21,7 +23,6 @@
         <option value="pid-2018" />
         <option value="pid-2018  " />
         <option value="Spell" />
-        <option value="pid-20832 " />
       </list>
     </option>
   </component>
