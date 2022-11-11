@@ -30,6 +30,10 @@
           <option name="url" value="git@git.gametaptap.com:android/android-cn/taptap-client-cn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.gametaptap.com:tds/client-sdk/tds-sdk-all/tapsdk2/tapsdk2-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project" />
