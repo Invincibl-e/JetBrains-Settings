@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SandXposed" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="fk" />
         <option value="SandXposed" />
         <option value="SandHook" />
         <option value="Xposed" />
@@ -22,7 +23,6 @@
         <option value="startActivity" />
         <option value="mPackages" />
         <option value="storage/" />
-        <option value="getPackagesForUid" />
       </list>
     </option>
   </component>
