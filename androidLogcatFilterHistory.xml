@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="SandXposed" />
+        <option value="Sandhook" />
         <option value="XposedCompat.callXposedModuleInit ();" />
         <option value="Xposed" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="storage/" />
         <option value="getPackagesForUid" />
         <option value="SPELL" />
-        <option value="spell" />
       </list>
     </option>
   </component>
