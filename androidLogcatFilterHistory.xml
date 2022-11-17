@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="Xposed" />
         <option value="fk" />
         <option value="SandXposed" />
         <option value="SandHook" />
-        <option value="package:mine " />
         <option value="Sandhook" />
         <option value="XposedCompat.callXposedModuleInit ();" />
         <option value="package:mine" />
