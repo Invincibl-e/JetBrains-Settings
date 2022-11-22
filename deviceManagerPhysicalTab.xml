@@ -254,6 +254,39 @@
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.2:42099" />
+          </Key>
+        </key>
+        <name value="OnePlus IN2010" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.2:43339" />
+          </Key>
+        </key>
+        <name value="OnePlus IN2010" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.2:40591" />
+          </Key>
+        </key>
+        <name value="OnePlus IN2010" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
