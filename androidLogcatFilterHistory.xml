@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="AnalyticsAli_New" />
     <option name="nonFavorites">
       <list>
+        <option value="AnalyticsAli_New" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="Xposed" />
         <option value="fk" />
@@ -10,7 +12,6 @@
         <option value="SandHook" />
         <option value="Sandhook" />
         <option value="XposedCompat.callXposedModuleInit ();" />
-        <option value="package:mine" />
         <option value="AccessibilityProvider" />
         <option value="webviewupdate" />
         <option value="IWebViewUpdateService" />
@@ -22,7 +23,6 @@
         <option value="by setView" />
         <option value="startActivity" />
         <option value="mPackages" />
-        <option value="storage/" />
       </list>
     </option>
   </component>
