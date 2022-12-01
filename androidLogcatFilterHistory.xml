@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AnalyticsAli_New" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="AnalyticsAli_New" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="Xposed" />
         <option value="fk" />
         <option value="SandXposed" />
