@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="BaseCommandMonitor" />
     <option name="nonFavorites">
       <list>
+        <option value="BaseCommandMonitor" />
         <option value="package:mine " />
         <option value="AnalyticsAli_New" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="texture_allocation_size" />
         <option value="by setView" />
         <option value="startActivity" />
-        <option value="mPackages" />
       </list>
     </option>
   </component>
