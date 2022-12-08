@@ -1,9 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="TapMan" />
     <option name="nonFavorites">
       <list>
+        <option value="TapMan" />
         <option value="TapManager" />
+        <option value="tapService" />
+        <option value="bindService" />
+        <option value="MainProcessService" />
+        <option value="Tap" />
+        <option value="CommunityPage" />
+        <option value="Co" />
         <option value="FloatMenuViewModel" />
         <option value="package:mine " />
         <option value="BaseCommandMonitor" />
@@ -16,13 +23,6 @@
         <option value="Sandhook" />
         <option value="XposedCompat.callXposedModuleInit ();" />
         <option value="AccessibilityProvider" />
-        <option value="webviewupdate" />
-        <option value="IWebViewUpdateService" />
-        <option value="IWi" />
-        <option value="MyWindowManager" />
-        <option value="getDefaultDisplay" />
-        <option value="BaseLib" />
-        <option value="texture_allocation_size" />
       </list>
     </option>
   </component>
