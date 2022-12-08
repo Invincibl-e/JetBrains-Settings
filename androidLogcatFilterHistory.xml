@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="FloatMenuViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="FloatMenuViewModel" />
         <option value="package:mine " />
         <option value="BaseCommandMonitor" />
         <option value="AnalyticsAli_New" />
@@ -22,7 +23,6 @@
         <option value="BaseLib" />
         <option value="texture_allocation_size" />
         <option value="by setView" />
-        <option value="startActivity" />
       </list>
     </option>
   </component>
