@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="TapMa" />
     <option name="nonFavorites">
       <list>
+        <option value="TapMa" />
         <option value="CommunityPage" />
         <option value="TapManager" />
-        <option value="TapMa" />
         <option value="bindService" />
         <option value="TapMan" />
         <option value="tapService" />
