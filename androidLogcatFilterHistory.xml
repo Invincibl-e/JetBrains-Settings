@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TapMa" />
+    <option name="mostRecentlyUsed" value="TapM" />
     <option name="nonFavorites">
       <list>
+        <option value="TapM" />
+        <option value="TapManager" />
         <option value="TapMa" />
         <option value="CommunityPage" />
-        <option value="TapManager" />
         <option value="bindService" />
         <option value="TapMan" />
         <option value="tapService" />
@@ -22,7 +23,6 @@
         <option value="SandXposed" />
         <option value="SandHook" />
         <option value="Sandhook" />
-        <option value="XposedCompat.callXposedModuleInit ();" />
       </list>
     </option>
   </component>
