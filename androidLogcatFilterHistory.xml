@@ -3,7 +3,9 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="FloatMenuPageViewModel" />
         <option value="package:mine " />
+        <option value="requestCommunityGroup" />
         <option value="TapManager" />
         <option value="TapM" />
         <option value="TapMa" />
@@ -21,8 +23,6 @@
         <option value="Xposed" />
         <option value="fk" />
         <option value="SandXposed" />
-        <option value="SandHook" />
-        <option value="Sandhook" />
       </list>
     </option>
   </component>
