@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FloatMenuPageViewModel" />
+    <option name="mostRecentlyUsed" value="onMeasure" />
     <option name="nonFavorites">
       <list>
+        <option value="onMeasure" />
+        <option value="VideoAd" />
         <option value="FloatMenuPageViewModel" />
         <option value="adFetchCompleted" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="BaseCommandMonitor" />
         <option value="AnalyticsAli_New" />
         <option value="package:mine" />
-        <option value="Xposed" />
-        <option value="fk" />
       </list>
     </option>
   </component>
