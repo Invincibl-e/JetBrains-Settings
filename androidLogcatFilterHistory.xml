@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="adFetchCompleted" />
     <option name="nonFavorites">
       <list>
+        <option value="adFetchCompleted" />
         <option value="package:mine " />
         <option value="TapManager" />
         <option value="FloatMenuPageViewModel" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="Xposed" />
         <option value="fk" />
-        <option value="SandXposed" />
       </list>
     </option>
   </component>
