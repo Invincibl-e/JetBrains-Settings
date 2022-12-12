@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="TextureVideoPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="TextureVideoPlayer" />
         <option value="view = " />
         <option value="inflate ( hostContext, R.layout.video_ad, this ) as ConstraintLayout" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="MainProcessService" />
         <option value="Co" />
         <option value="FloatMenuViewModel" />
-        <option value="BaseCommandMonitor" />
       </list>
     </option>
   </component>
