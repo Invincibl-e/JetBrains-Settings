@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TextureVideoPlayer" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="onMeasure" />
         <option value="TextureVideoPlayer" />
         <option value="view = " />
         <option value="inflate ( hostContext, R.layout.video_ad, this ) as ConstraintLayout" />
-        <option value="package:mine " />
         <option value="FloatMenuPageViewModel" />
-        <option value="onMeasure" />
         <option value="VideoAd" />
         <option value="adFetchCompleted" />
         <option value="TapManager" />
