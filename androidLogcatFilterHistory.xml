@@ -1,18 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onMeasure: " />
+    <option name="mostRecentlyUsed" value="TapManager" />
     <option name="nonFavorites">
       <list>
+        <option value="TapManager" />
+        <option value="Flaot" />
+        <option value="onGameButtonStateChanged" />
+        <option value="package:mine " />
         <option value="onMeasure: " />
         <option value="onMeasure" />
-        <option value="package:mine " />
         <option value="TextureVideoPlayer" />
         <option value="view = " />
         <option value="inflate ( hostContext, R.layout.video_ad, this ) as ConstraintLayout" />
         <option value="FloatMenuPageViewModel" />
         <option value="VideoAd" />
         <option value="adFetchCompleted" />
-        <option value="TapManager" />
         <option value="CommunityPage" />
         <option value="Tap" />
         <option value="requestSandboxAd" />
@@ -21,8 +23,6 @@
         <option value="bindService" />
         <option value="TapMan" />
         <option value="tapService" />
-        <option value="MainProcessService" />
-        <option value="Co" />
       </list>
     </option>
   </component>
