@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FloatMenuPageViewModel" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="view = " />
+        <option value="inflate ( hostContext, R.layout.video_ad, this ) as ConstraintLayout" />
+        <option value="package:mine " />
         <option value="FloatMenuPageViewModel" />
         <option value="onMeasure" />
         <option value="VideoAd" />
         <option value="adFetchCompleted" />
-        <option value="package:mine " />
         <option value="TapManager" />
         <option value="CommunityPage" />
         <option value="Tap" />
@@ -21,8 +23,6 @@
         <option value="Co" />
         <option value="FloatMenuViewModel" />
         <option value="BaseCommandMonitor" />
-        <option value="AnalyticsAli_New" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
