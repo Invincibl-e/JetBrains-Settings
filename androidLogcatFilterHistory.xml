@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="CommunityPage" />
     <option name="nonFavorites">
       <list>
+        <option value="CommunityPage" />
         <option value="TapManager" />
+        <option value="ImageExtension" />
         <option value="package:mine " />
         <option value="Flaot" />
         <option value="onGameButtonStateChanged" />
@@ -15,14 +17,12 @@
         <option value="FloatMenuPageViewModel" />
         <option value="VideoAd" />
         <option value="adFetchCompleted" />
-        <option value="CommunityPage" />
         <option value="Tap" />
         <option value="requestSandboxAd" />
         <option value="TapM" />
         <option value="TapMa" />
         <option value="bindService" />
         <option value="TapMan" />
-        <option value="tapService" />
       </list>
     </option>
   </component>
