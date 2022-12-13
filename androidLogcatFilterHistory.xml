@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CommunityPage" />
+    <option name="mostRecentlyUsed" value="Dynamic" />
     <option name="nonFavorites">
       <list>
+        <option value="Dynamic" />
+        <option value="Tap" />
+        <option value="DynamicFlow" />
         <option value="CommunityPage" />
         <option value="TapManager" />
         <option value="ImageExtension" />
@@ -17,12 +20,9 @@
         <option value="FloatMenuPageViewModel" />
         <option value="VideoAd" />
         <option value="adFetchCompleted" />
-        <option value="Tap" />
         <option value="requestSandboxAd" />
         <option value="TapM" />
         <option value="TapMa" />
-        <option value="bindService" />
-        <option value="TapMan" />
       </list>
     </option>
   </component>
