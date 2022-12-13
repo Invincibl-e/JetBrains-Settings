@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="TapManager" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="TapManager" />
+        <option value="package:mine " />
         <option value="Flaot" />
         <option value="onGameButtonStateChanged" />
         <option value="onMeasure: " />
