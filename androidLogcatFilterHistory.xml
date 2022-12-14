@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Dynamic" />
     <option name="nonFavorites">
       <list>
+        <option value="Dynamic" />
         <option value="haibuzou" />
         <option value="TapMa" />
         <option value="TapManager" />
         <option value="package:mine " />
         <option value="continue" />
         <option value="TapMan" />
-        <option value="Dynamic" />
         <option value="Tap" />
         <option value="DynamicFlow" />
         <option value="CommunityPage" />
