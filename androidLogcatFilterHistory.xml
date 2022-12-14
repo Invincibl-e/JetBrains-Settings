@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Dynamic" />
+    <option name="mostRecentlyUsed" value="SettingsPage" />
     <option name="nonFavorites">
       <list>
+        <option value="SettingsPage" />
         <option value="Dynamic" />
         <option value="TapManager" />
         <option value="haibuzou" />
@@ -22,7 +23,6 @@
         <option value="view = " />
         <option value="inflate ( hostContext, R.layout.video_ad, this ) as ConstraintLayout" />
         <option value="FloatMenuPageViewModel" />
-        <option value="VideoAd" />
       </list>
     </option>
   </component>
