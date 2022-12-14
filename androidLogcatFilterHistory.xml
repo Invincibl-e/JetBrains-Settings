@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="GameMan" />
     <option name="nonFavorites">
       <list>
-        <option value="GameManager" />
+        <option value="GameMan" />
         <option value="SettingsPage" />
+        <option value="GameService" />
+        <option value="GameManager" />
         <option value="Dynamic" />
         <option value="TapManager" />
         <option value="haibuzou" />
@@ -21,8 +23,6 @@
         <option value="onMeasure: " />
         <option value="onMeasure" />
         <option value="TextureVideoPlayer" />
-        <option value="view = " />
-        <option value="inflate ( hostContext, R.layout.video_ad, this ) as ConstraintLayout" />
       </list>
     </option>
   </component>
