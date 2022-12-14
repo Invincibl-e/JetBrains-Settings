@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="continue" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="continue" />
         <option value="TapMan" />
         <option value="Dynamic" />
@@ -11,7 +12,6 @@
         <option value="CommunityPage" />
         <option value="TapManager" />
         <option value="ImageExtension" />
-        <option value="package:mine " />
         <option value="Flaot" />
         <option value="onGameButtonStateChanged" />
         <option value="onMeasure: " />
