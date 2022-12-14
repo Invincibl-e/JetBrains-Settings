@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Dynamic" />
+    <option name="mostRecentlyUsed" value="TapMan" />
     <option name="nonFavorites">
       <list>
+        <option value="TapMan" />
         <option value="Dynamic" />
         <option value="Tap" />
         <option value="DynamicFlow" />
@@ -22,7 +23,6 @@
         <option value="adFetchCompleted" />
         <option value="requestSandboxAd" />
         <option value="TapM" />
-        <option value="TapMa" />
       </list>
     </option>
   </component>
