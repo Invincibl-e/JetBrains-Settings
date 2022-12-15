@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="UnitUtils" />
     <option name="nonFavorites">
       <list>
+        <option value="UnitUtils" />
+        <option value="CommunityPage" />
+        <option value="package:mine " />
         <option value="quitAd" />
         <option value="GameMan" />
         <option value="SettingsPage" />
@@ -12,17 +15,14 @@
         <option value="TapManager" />
         <option value="haibuzou" />
         <option value="TapMa" />
-        <option value="package:mine " />
         <option value="continue" />
         <option value="TapMan" />
         <option value="Tap" />
         <option value="DynamicFlow" />
-        <option value="CommunityPage" />
         <option value="ImageExtension" />
         <option value="Flaot" />
         <option value="onGameButtonStateChanged" />
         <option value="onMeasure: " />
-        <option value="onMeasure" />
       </list>
     </option>
   </component>
