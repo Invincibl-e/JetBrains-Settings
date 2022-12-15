@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="GameMan" />
+    <option name="mostRecentlyUsed" value="quitAd" />
     <option name="nonFavorites">
       <list>
+        <option value="quitAd" />
         <option value="GameMan" />
         <option value="SettingsPage" />
         <option value="GameService" />
@@ -22,7 +23,6 @@
         <option value="onGameButtonStateChanged" />
         <option value="onMeasure: " />
         <option value="onMeasure" />
-        <option value="TextureVideoPlayer" />
       </list>
     </option>
   </component>
