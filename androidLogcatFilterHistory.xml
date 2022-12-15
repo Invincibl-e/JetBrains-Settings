@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getForegroundColor" />
+    <option name="mostRecentlyUsed" value="PerformanceMonitor" />
     <option name="nonFavorites">
       <list>
+        <option value="PerformanceMonitor" />
+        <option value="P" />
         <option value="getForegroundColor" />
         <option value="level:error " />
         <option value="UnitUtils" />
@@ -21,8 +23,6 @@
         <option value="TapMan" />
         <option value="Tap" />
         <option value="DynamicFlow" />
-        <option value="ImageExtension" />
-        <option value="Flaot" />
       </list>
     </option>
   </component>
