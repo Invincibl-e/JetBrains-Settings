@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="UnitUtils" />
+    <option name="mostRecentlyUsed" value="getForegroundColor" />
     <option name="nonFavorites">
       <list>
+        <option value="getForegroundColor" />
+        <option value="level:error " />
         <option value="UnitUtils" />
         <option value="CommunityPage" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="DynamicFlow" />
         <option value="ImageExtension" />
         <option value="Flaot" />
-        <option value="onGameButtonStateChanged" />
-        <option value="onMeasure: " />
       </list>
     </option>
   </component>
