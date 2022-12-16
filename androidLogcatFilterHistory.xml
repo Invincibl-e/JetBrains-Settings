@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FloatMenuPage" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="UnitUtils" />
         <option value="FloatMenuPage" />
         <option value="level:error " />
         <option value="IGameButtonStateCallback" />
@@ -15,7 +16,6 @@
         <option value="PerformanceMonitor" />
         <option value="P" />
         <option value="getForegroundColor" />
-        <option value="UnitUtils" />
         <option value="CommunityPage" />
         <option value="package:mine " />
         <option value="quitAd" />
