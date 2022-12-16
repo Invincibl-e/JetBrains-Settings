@@ -1,13 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="GameButton" />
+    <option name="mostRecentlyUsed" value="FloatMenuPage" />
     <option name="nonFavorites">
       <list>
+        <option value="FloatMenuPage" />
+        <option value="level:error " />
+        <option value="IGameButtonStateCallback" />
+        <option value="com.taptap.game.sandbox.impl.ipc.IGameButtonStateCallback$Stub$Proxy" />
+        <option value="onGameButtonStateChanged" />
+        <option value="haibuzou" />
+        <option value="TapMan" />
+        <option value="FloatMenuPageViewModel" />
         <option value="GameButton" />
         <option value="PerformanceMonitor" />
         <option value="P" />
         <option value="getForegroundColor" />
-        <option value="level:error " />
         <option value="UnitUtils" />
         <option value="CommunityPage" />
         <option value="package:mine " />
@@ -16,13 +23,6 @@
         <option value="SettingsPage" />
         <option value="GameService" />
         <option value="GameManager" />
-        <option value="Dynamic" />
-        <option value="TapManager" />
-        <option value="haibuzou" />
-        <option value="TapMa" />
-        <option value="continue" />
-        <option value="TapMan" />
-        <option value="Tap" />
       </list>
     </option>
   </component>
