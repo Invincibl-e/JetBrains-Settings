@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="VideoAd" />
     <option name="nonFavorites">
       <list>
+        <option value="VideoAd" />
+        <option value="Vidoe" />
         <option value="package:mine " />
         <option value="UnitUtils" />
         <option value="FloatMenuPage" />
@@ -21,8 +23,6 @@
         <option value="quitAd" />
         <option value="GameMan" />
         <option value="SettingsPage" />
-        <option value="GameService" />
-        <option value="GameManager" />
       </list>
     </option>
   </component>
