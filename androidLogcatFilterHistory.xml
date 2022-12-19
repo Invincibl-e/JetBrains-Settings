@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="UnitUtils" />
         <option value="FloatMenuPage" />
         <option value="level:error " />
@@ -17,7 +18,6 @@
         <option value="P" />
         <option value="getForegroundColor" />
         <option value="CommunityPage" />
-        <option value="package:mine " />
         <option value="quitAd" />
         <option value="GameMan" />
         <option value="SettingsPage" />
