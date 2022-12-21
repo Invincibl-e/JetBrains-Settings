@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="ProgressBarButton" />
     <option name="nonFavorites">
       <list>
+        <option value="ProgressBarButton" />
         <option value="package:mine" />
         <option value="VideoAd" />
         <option value="Vidoe" />
@@ -21,7 +23,6 @@
         <option value="getForegroundColor" />
         <option value="CommunityPage" />
         <option value="quitAd" />
-        <option value="GameMan" />
       </list>
     </option>
   </component>
