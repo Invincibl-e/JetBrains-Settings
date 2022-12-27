@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="PerformanceMonitorConfig" />
     <option name="nonFavorites">
       <list>
+        <option value="PerformanceMonitorConfig" />
+        <option value="setPerformanceMonitorConfig" />
+        <option value="package:mine " />
         <option value="needJump" />
         <option value="FloatPluginSer" />
         <option value="FloatPluginService" />
-        <option value="package:mine " />
         <option value="SandboxPlugin" />
         <option value="com.nan" />
         <option value="ProgressBarButton" />
@@ -21,8 +23,6 @@
         <option value="onGameButtonStateChanged" />
         <option value="haibuzou" />
         <option value="TapMan" />
-        <option value="FloatMenuPageViewModel" />
-        <option value="GameButton" />
       </list>
     </option>
   </component>
