@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ProgressBarButton" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="ProgressBarButton" />
         <option value="package:mine" />
         <option value="VideoAd" />
         <option value="Vidoe" />
-        <option value="package:mine " />
         <option value="UnitUtils" />
         <option value="FloatMenuPage" />
         <option value="level:error " />
