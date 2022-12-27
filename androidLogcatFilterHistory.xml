@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FloatPluginService" />
+    <option name="mostRecentlyUsed" value="needJump" />
     <option name="nonFavorites">
       <list>
+        <option value="needJump" />
+        <option value="FloatPluginSer" />
         <option value="FloatPluginService" />
         <option value="package:mine " />
         <option value="SandboxPlugin" />
@@ -21,8 +23,6 @@
         <option value="TapMan" />
         <option value="FloatMenuPageViewModel" />
         <option value="GameButton" />
-        <option value="PerformanceMonitor" />
-        <option value="P" />
       </list>
     </option>
   </component>
