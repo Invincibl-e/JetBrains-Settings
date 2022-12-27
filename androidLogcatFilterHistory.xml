@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SandboxPlugin" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="SandboxPlugin" />
         <option value="package:mine " />
+        <option value="SandboxPlugin" />
+        <option value="com.nan" />
         <option value="ProgressBarButton" />
         <option value="package:mine" />
         <option value="VideoAd" />
@@ -22,7 +23,6 @@
         <option value="PerformanceMonitor" />
         <option value="P" />
         <option value="getForegroundColor" />
-        <option value="CommunityPage" />
       </list>
     </option>
   </component>
