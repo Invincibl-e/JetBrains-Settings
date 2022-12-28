@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VActivityManager" />
+    <option name="mostRecentlyUsed" value="IAc" />
     <option name="nonFavorites">
       <list>
+        <option value="IAc" />
         <option value="VActivityManager" />
         <option value="com.taptap.sandbox " />
         <option value="bindService" />
@@ -22,7 +23,6 @@
         <option value="UnitUtils" />
         <option value="FloatMenuPage" />
         <option value="level:error " />
-        <option value="IGameButtonStateCallback" />
       </list>
     </option>
   </component>
