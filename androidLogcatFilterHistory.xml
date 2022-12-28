@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SettingsPage" />
+    <option name="mostRecentlyUsed" value="PerformanceMonitor" />
     <option name="nonFavorites">
       <list>
+        <option value="PerformanceMonitor" />
         <option value="SettingsPage" />
         <option value="performanceMonitorConfig" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="VideoAd" />
         <option value="Vidoe" />
         <option value="UnitUtils" />
-        <option value="FloatMenuPage" />
       </list>
     </option>
   </component>
