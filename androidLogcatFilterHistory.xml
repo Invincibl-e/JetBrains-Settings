@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="SettingsPage" />
     <option name="nonFavorites">
       <list>
+        <option value="SettingsPage" />
+        <option value="performanceMonitorConfig" />
         <option value="package:mine " />
         <option value="IAc" />
         <option value="VActivityManager" />
         <option value="com.taptap.sandbox " />
         <option value="bindService" />
-        <option value="SettingsPage" />
         <option value="FloatPluginSer" />
         <option value="PerformanceMonitorConfig" />
         <option value="setPerformanceMonitorConfig" />
@@ -22,7 +23,6 @@
         <option value="Vidoe" />
         <option value="UnitUtils" />
         <option value="FloatMenuPage" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
