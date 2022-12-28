@@ -1,13 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PerformanceMonitorConfig" />
+    <option name="mostRecentlyUsed" value="VActivityManager" />
     <option name="nonFavorites">
       <list>
+        <option value="VActivityManager" />
+        <option value="com.taptap.sandbox " />
+        <option value="bindService" />
+        <option value="SettingsPage" />
+        <option value="FloatPluginSer" />
         <option value="PerformanceMonitorConfig" />
         <option value="setPerformanceMonitorConfig" />
         <option value="package:mine " />
         <option value="needJump" />
-        <option value="FloatPluginSer" />
         <option value="FloatPluginService" />
         <option value="SandboxPlugin" />
         <option value="com.nan" />
@@ -19,10 +23,6 @@
         <option value="FloatMenuPage" />
         <option value="level:error " />
         <option value="IGameButtonStateCallback" />
-        <option value="com.taptap.game.sandbox.impl.ipc.IGameButtonStateCallback$Stub$Proxy" />
-        <option value="onGameButtonStateChanged" />
-        <option value="haibuzou" />
-        <option value="TapMan" />
       </list>
     </option>
   </component>
