@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PerformanceMonitor" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="PerformanceMonitor" />
         <option value="SettingsPage" />
         <option value="performanceMonitorConfig" />
-        <option value="package:mine " />
         <option value="IAc" />
         <option value="VActivityManager" />
         <option value="com.taptap.sandbox " />
