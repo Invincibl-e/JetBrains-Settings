@@ -38,9 +38,17 @@
           <option name="url" value="https://gitlab.com/ygsk10/healthcode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.gametaptap.com/tds/client-sdk/tappayment-android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.gametaptap.com:tds/client-sdk/tappayment-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\kaiyu\Project" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

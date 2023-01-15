@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="FloatMenuPageViewModel" />
         <option value="package:mine " />
-        <option value="requestCommunityGroup" />
-        <option value="TapManager" />
-        <option value="TapM" />
-        <option value="TapMa" />
-        <option value="CommunityPage" />
+        <option value="PerformanceMonitor" />
+        <option value="SettingsPage" />
+        <option value="performanceMonitorConfig" />
+        <option value="IAc" />
+        <option value="VActivityManager" />
+        <option value="com.taptap.sandbox " />
         <option value="bindService" />
-        <option value="TapMan" />
-        <option value="tapService" />
-        <option value="MainProcessService" />
-        <option value="Tap" />
-        <option value="Co" />
-        <option value="FloatMenuViewModel" />
-        <option value="BaseCommandMonitor" />
-        <option value="AnalyticsAli_New" />
+        <option value="FloatPluginSer" />
+        <option value="PerformanceMonitorConfig" />
+        <option value="setPerformanceMonitorConfig" />
+        <option value="needJump" />
+        <option value="FloatPluginService" />
+        <option value="SandboxPlugin" />
+        <option value="com.nan" />
+        <option value="ProgressBarButton" />
         <option value="package:mine" />
-        <option value="Xposed" />
-        <option value="fk" />
-        <option value="SandXposed" />
+        <option value="VideoAd" />
+        <option value="Vidoe" />
+        <option value="UnitUtils" />
       </list>
     </option>
   </component>
