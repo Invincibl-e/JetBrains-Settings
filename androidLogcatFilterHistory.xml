@@ -1,12 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Set performanceMonitorConfig" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="Set performanceMonitorConfig" />
-        <option value="FloatPluginService" />
-        <option value="PerformanceMonitor" />
         <option value="package:mine " />
+        <option value="PerformanceMonitor" />
         <option value="SettingsPage" />
         <option value="performanceMonitorConfig" />
         <option value="IAc" />
@@ -17,12 +15,14 @@
         <option value="PerformanceMonitorConfig" />
         <option value="setPerformanceMonitorConfig" />
         <option value="needJump" />
+        <option value="FloatPluginService" />
         <option value="SandboxPlugin" />
         <option value="com.nan" />
         <option value="ProgressBarButton" />
         <option value="package:mine" />
         <option value="VideoAd" />
         <option value="Vidoe" />
+        <option value="UnitUtils" />
       </list>
     </option>
   </component>

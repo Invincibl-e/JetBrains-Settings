@@ -46,9 +46,13 @@
           <option name="url" value="git@git.gametaptap.com:tds/client-sdk/tappayment-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/codinginflow/NavigationComponentTutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project" />
+    <option name="cloneParentDir" value="C:\Users\kaiyu\Project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
