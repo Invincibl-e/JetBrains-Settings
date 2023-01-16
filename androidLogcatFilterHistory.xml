@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="FloatPlugin" />
+        <option value="Float" />
         <option value="PerformanceMonitor" />
         <option value="SettingsPage" />
         <option value="performanceMonitorConfig" />
@@ -20,8 +22,6 @@
         <option value="ProgressBarButton" />
         <option value="package:mine" />
         <option value="VideoAd" />
-        <option value="Vidoe" />
-        <option value="UnitUtils" />
       </list>
     </option>
   </component>
