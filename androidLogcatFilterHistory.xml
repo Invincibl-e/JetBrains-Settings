@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="SegmentTree" />
     <option name="nonFavorites">
       <list>
+        <option value="SegmentTree" />
         <option value="package:mine " />
         <option value="FloatPlugin" />
         <option value="Float" />
@@ -22,7 +23,6 @@
         <option value="com.nan" />
         <option value="ProgressBarButton" />
         <option value="package:mine" />
-        <option value="VideoAd" />
       </list>
     </option>
   </component>
