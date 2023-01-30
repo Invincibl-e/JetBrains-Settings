@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SegmentTree" />
+    <option name="mostRecentlyUsed" value="TapSDKManager" />
     <option name="nonFavorites">
       <list>
+        <option value="TapSDKManager" />
         <option value="SegmentTree" />
         <option value="package:mine " />
         <option value="FloatPlugin" />
@@ -22,7 +23,6 @@
         <option value="SandboxPlugin" />
         <option value="com.nan" />
         <option value="ProgressBarButton" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
