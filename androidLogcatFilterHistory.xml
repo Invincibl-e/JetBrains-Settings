@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.duoyi.shenwu3 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.duoyi.shenwu3 " />
+        <option value="she" />
         <option value="package:mine " />
         <option value="PerformanceMonitor" />
         <option value="SettingsPage" />
@@ -21,8 +23,6 @@
         <option value="ProgressBarButton" />
         <option value="package:mine" />
         <option value="VideoAd" />
-        <option value="Vidoe" />
-        <option value="UnitUtils" />
       </list>
     </option>
   </component>
