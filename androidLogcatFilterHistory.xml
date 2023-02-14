@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:COM.TAPTAP.PAYMENT.UNITYDEMO " />
     <option name="nonFavorites">
       <list>
+        <option value="package:COM.TAPTAP.PAYMENT.UNITYDEMO " />
         <option value="package:mine " />
         <option value="package:Unity" />
         <option value="package:com.taptap.payment.demo " />
@@ -21,7 +23,6 @@
         <option value="IAc" />
         <option value="VActivityManager" />
         <option value="com.taptap.sandbox " />
-        <option value="bindService" />
       </list>
     </option>
   </component>
