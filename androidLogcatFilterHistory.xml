@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="InputMethod" />
         <option value="package:mine " />
         <option value="input" />
         <option value="-tag:BLASTBufferQueue" />
@@ -21,7 +23,6 @@
         <option value="SegmentTree" />
         <option value="FloatPlugin" />
         <option value="Float" />
-        <option value="PerformanceMonitor" />
       </list>
     </option>
   </component>
