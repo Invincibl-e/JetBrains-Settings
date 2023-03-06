@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="PurchasePage" />
         <option value="InputMe" />
         <option value="InputMethod" />
         <option value="input" />
@@ -21,7 +23,6 @@
         <option value="Unity" />
         <option value="TapSDKManager" />
         <option value="SegmentTree" />
-        <option value="FloatPlugin" />
       </list>
     </option>
   </component>
