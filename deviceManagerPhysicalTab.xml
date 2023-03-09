@@ -8,7 +8,7 @@
             <value value="24261FDF60019M" />
           </Key>
         </key>
-        <name value="Google Pixel 6" />
+        <name value="Google AOSP on Oriole" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
