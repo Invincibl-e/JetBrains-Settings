@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="doRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="doRequest" />
         <option value="package:mine " />
         <option value="PurchasePage" />
         <option value="InputMe" />
@@ -22,7 +23,6 @@
         <option value="tag:Unity" />
         <option value="Unity" />
         <option value="TapSDKManager" />
-        <option value="SegmentTree" />
       </list>
     </option>
   </component>
