@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag:BLASTBufferQueue" />
+    <option name="mostRecentlyUsed" value="tag:Unity " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Unity " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="package:mine " />
         <option value="tag:unity " />
-        <option value="tag:Unity " />
         <option value="tag:Unity" />
         <option value="package:mine &amp;&amp; -tag:BLASTBufferQueue" />
         <option value="-tag:BLASTBufferQueue&amp;package:mine " />
