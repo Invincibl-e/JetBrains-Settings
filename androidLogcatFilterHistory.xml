@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="local" />
         <option value="-tag:BLASTBufferQueue" />
         <option value="tag:Unity " />
         <option value="stripePayWithNewCard" />
@@ -21,7 +22,6 @@
         <option value="package:com.taptap.payment.UnityDemo &amp; -tag:BLASTBufferQueue" />
         <option value="package:mine &amp; package:com.taptap.payment.UnityDemo " />
         <option value="buildLoader" />
-        <option value="package:COM.TAPTAP.PAYMENT.UNITYDEMO " />
       </list>
     </option>
   </component>
