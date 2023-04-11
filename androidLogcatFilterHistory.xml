@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag:BLASTBufferQueue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="-tag:" />
         <option value="package:com.taptap.payment.UnityDemo " />
         <option value="setTempLocale" />
         <option value="page_purchase_tax" />
-        <option value="package:mine " />
         <option value="TapSDKManager" />
         <option value="XX" />
         <option value="local" />
