@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="register Failed" />
         <option value="package:mine " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="-tag:" />
@@ -21,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine &amp; onItemClick " />
         <option value="doRequest" />
-        <option value="PurchasePage" />
       </list>
     </option>
   </component>
