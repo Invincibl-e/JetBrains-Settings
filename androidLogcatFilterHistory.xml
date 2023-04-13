@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:com.taptap.payment.UnityDemo" />
+        <option value="tag:Unity " />
         <option value="package:mine " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="register Failed" />
@@ -13,7 +15,6 @@
         <option value="TapSDKManager" />
         <option value="XX" />
         <option value="local" />
-        <option value="tag:Unity " />
         <option value="stripePayWithNewCard" />
         <option value="tag:unity " />
         <option value="tag:Unity" />
@@ -22,7 +23,6 @@
         <option value="-tag:BLASTBufferQueue " />
         <option value="package:mine" />
         <option value="package:mine &amp; onItemClick " />
-        <option value="doRequest" />
       </list>
     </option>
   </component>
