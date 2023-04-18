@@ -4,6 +4,28 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="24261FDF60019M" />
+          </Key>
+        </key>
+        <name value="Google AOSP on Oriole" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.26.204.140:41599" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-8CDX1MV0C-k1lo41._adb-tls-connect._tcp." />
           </Key>
@@ -302,12 +324,99 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="24261FDF60019M" />
+            <value value="R5CR50ZLZHP" />
           </Key>
         </key>
-        <name value="Google AOSP on Oriole" />
-        <target value="Android Tiramisu" />
+        <name value="samsung SM-G9910" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZY22DW3P5B" />
+          </Key>
+        </key>
+        <name value="motorola XT2201-2" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="311d4beb" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi 10 Pro" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="be27588a" />
+          </Key>
+        </key>
+        <name value="Xiaomi 2206123SC" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="dfd1786c" />
+          </Key>
+        </key>
+        <name value="OPPO PCLM50" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8b8b0cff" />
+          </Key>
+        </key>
+        <name value="vivo V1965A" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="345687715000192" />
+          </Key>
+        </key>
+        <name value="vivo V2183A" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3458444974002KA" />
+          </Key>
+        </key>
+        <name value="vivo V2171A" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
