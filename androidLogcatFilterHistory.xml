@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="PaymentApplication" />
         <option value="onCreate" />
         <option value="-tag:BLASTBufferQueue" />
-        <option value="package:mine " />
         <option value="tag:com.taptap.payment.UnityDemo" />
         <option value="tag:Unity " />
         <option value="register Failed" />
