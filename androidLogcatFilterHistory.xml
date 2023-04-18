@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag:BLASTBufferQueue" />
+    <option name="mostRecentlyUsed" value="PaymentApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="PaymentApplication" />
+        <option value="onCreate" />
+        <option value="-tag:BLASTBufferQueue" />
         <option value="package:mine " />
         <option value="tag:com.taptap.payment.UnityDemo" />
         <option value="tag:Unity " />
-        <option value="-tag:BLASTBufferQueue" />
         <option value="register Failed" />
         <option value="-tag:" />
         <option value="package:com.taptap.payment.UnityDemo " />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp;&amp; -tag:BLASTBufferQueue" />
         <option value="-tag:BLASTBufferQueue&amp;package:mine " />
         <option value="-tag:BLASTBufferQueue " />
-        <option value="package:mine" />
-        <option value="package:mine &amp; onItemClick " />
       </list>
     </option>
   </component>
