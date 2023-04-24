@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PurchasePage" />
     <option name="nonFavorites">
       <list>
-        <option value="PurchasePage" />
         <option value="package:mine " />
+        <option value="PurchasePage" />
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
         <option value="tag:com.taptap.payment.UnityDemo" />
