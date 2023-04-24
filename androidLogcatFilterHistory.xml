@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="return" />
     <option name="nonFavorites">
       <list>
-        <option value="return" />
         <option value="package:mine " />
+        <option value="return" />
         <option value="PurchasePage" />
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
