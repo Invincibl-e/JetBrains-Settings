@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="PurchasePage" />
     <option name="nonFavorites">
       <list>
+        <option value="PurchasePage" />
         <option value="package:mine " />
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
@@ -21,7 +23,6 @@
         <option value="stripePayWithNewCard" />
         <option value="tag:unity " />
         <option value="tag:Unity" />
-        <option value="package:mine &amp;&amp; -tag:BLASTBufferQueue" />
       </list>
     </option>
   </component>
