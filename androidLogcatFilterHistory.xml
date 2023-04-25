@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="OnApprove" />
     <option name="nonFavorites">
       <list>
+        <option value="OnApprove" />
+        <option value="PurchasePage" />
+        <option value="Pur" />
         <option value="package:mine " />
         <option value="return" />
-        <option value="PurchasePage" />
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
         <option value="tag:com.taptap.payment.UnityDemo" />
@@ -20,8 +23,6 @@
         <option value="TapSDKManager" />
         <option value="XX" />
         <option value="local" />
-        <option value="stripePayWithNewCard" />
-        <option value="tag:unity " />
       </list>
     </option>
   </component>
