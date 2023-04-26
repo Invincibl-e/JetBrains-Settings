@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="shouldOverrideUrlLoading" />
         <option value="OnApprove" />
         <option value="PurchasePage" />
         <option value="Pur" />
@@ -22,7 +23,6 @@
         <option value="page_purchase_tax" />
         <option value="TapSDKManager" />
         <option value="XX" />
-        <option value="local" />
       </list>
     </option>
   </component>
