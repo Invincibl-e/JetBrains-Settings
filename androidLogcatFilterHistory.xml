@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="shouldOverrideUrlLoading" />
         <option value="OnApprove" />
         <option value="PurchasePage" />
         <option value="Pur" />
-        <option value="package:mine " />
         <option value="return" />
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
