@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.taptap.payment.UnityDemo &amp; -tag:BLASTBufferQueue" />
         <option value="package:com.taptap.payment.UnityDemo &amp;&amp; -tag:BLASTBufferQueue" />
         <option value="package:com.taptap.payment.UnityDemo" />
-        <option value="package:mine " />
         <option value="shouldOverrideUrlLoading" />
         <option value="OnApprove" />
         <option value="PurchasePage" />
