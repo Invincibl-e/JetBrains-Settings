@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TapEngine" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="TapEngine" />
         <option value="SQLite" />
         <option value="package:mine " />
         <option value="Payment" />
@@ -22,7 +23,6 @@
         <option value="onCreate" />
         <option value="tag:Unity " />
         <option value="register Failed" />
-        <option value="-tag:" />
       </list>
     </option>
   </component>
