@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.hanjiasongshu.qkjh" />
+        <option value="tag:Bridge" />
+        <option value="Bridge" />
         <option value="package:mine " />
         <option value="tag:TapEngine" />
         <option value="TapEngine" />
@@ -19,9 +23,6 @@
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
         <option value="tag:com.taptap.payment.UnityDemo" />
-        <option value="PaymentApplication" />
-        <option value="onCreate" />
-        <option value="tag:Unity " />
       </list>
     </option>
   </component>
