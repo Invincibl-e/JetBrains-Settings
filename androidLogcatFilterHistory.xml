@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.hanjiasongshu.qkjh" />
         <option value="tag:Bridge" />
         <option value="Bridge" />
-        <option value="package:mine " />
         <option value="tag:TapEngine" />
         <option value="TapEngine" />
         <option value="SQLite" />
