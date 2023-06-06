@@ -461,6 +461,17 @@
         <target value="Android 5.1" />
         <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9YJNW17927018326" />
+          </Key>
+        </key>
+        <name value="HUAWEI TRT-AL00A" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
