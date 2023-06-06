@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TrackPoint" />
     <option name="nonFavorites">
       <list>
-        <option value="TrackPoint" />
         <option value="package:mine " />
+        <option value="TrackPoint" />
         <option value="package:com.hanjiasongshu.qkjh" />
         <option value="tag:Bridge" />
         <option value="Bridge" />

@@ -450,6 +450,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="85EACNJGMW3W" />
+          </Key>
+        </key>
+        <name value="Meizu MX5" />
+        <target value="Android 5.1" />
+        <api value="androidversion:22:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
