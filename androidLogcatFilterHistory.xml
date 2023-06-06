@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="TrackPoint" />
     <option name="nonFavorites">
       <list>
+        <option value="TrackPoint" />
         <option value="package:mine " />
         <option value="package:com.hanjiasongshu.qkjh" />
         <option value="tag:Bridge" />
@@ -21,7 +23,6 @@
         <option value="return" />
         <option value="mi" />
         <option value="PaymentActivityViewMode" />
-        <option value="tag:com.taptap.payment.UnityDemo" />
       </list>
     </option>
   </component>
