@@ -12,6 +12,15 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://git.gametaptap.com/tds/client-sdk/tappayment-android">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/tappayment-android",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4",
+  "remoteId": null
+}]]></state>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
