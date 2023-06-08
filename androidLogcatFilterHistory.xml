@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="attachLocal local:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="attachLocal local:" />
         <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
-        <option value="package:mine " />
         <option value="TrackPoint" />
         <option value="package:com.hanjiasongshu.qkjh" />
         <option value="tag:Bridge" />
