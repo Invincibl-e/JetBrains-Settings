@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  &amp; -tag:BLASTBufferQueue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
         <option value="package:mine " />
         <option value="TrackPoint" />
         <option value="package:com.hanjiasongshu.qkjh" />
@@ -21,7 +23,6 @@
         <option value="Pur" />
         <option value="return" />
         <option value="mi" />
-        <option value="PaymentActivityViewMode" />
       </list>
     </option>
   </component>
