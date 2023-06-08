@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  &amp; -tag:BLASTBufferQueue" />
+    <option name="mostRecentlyUsed" value="attachLocal local:" />
     <option name="nonFavorites">
       <list>
+        <option value="attachLocal local:" />
         <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
         <option value="package:mine " />
         <option value="TrackPoint" />
@@ -22,7 +23,6 @@
         <option value="PurchasePage" />
         <option value="Pur" />
         <option value="return" />
-        <option value="mi" />
       </list>
     </option>
   </component>
