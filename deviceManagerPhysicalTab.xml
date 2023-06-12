@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="85EACNJGMW3W" />
-          </Key>
-        </key>
-        <name value="Meizu MX5" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="24261FDF60019M" />
           </Key>
         </key>
         <name value="Google AOSP on Oriole" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="85EACNJGMW3W" />
+          </Key>
+        </key>
+        <name value="Meizu MX5" />
+        <target value="Android 5.1" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
