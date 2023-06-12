@@ -1,4 +1,7 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="ParallelSystem" version="173">
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
+  </Objective-C>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
