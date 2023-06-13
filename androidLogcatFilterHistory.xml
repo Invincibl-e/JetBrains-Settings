@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="~tag:ShimmerDrawable" />
     <option name="nonFavorites">
       <list>
-        <option value="~tag:ShimmerDrawable" />
         <option value="package:mine " />
+        <option value="~tag:ShimmerDrawable" />
         <option value="attachLocal local:" />
         <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
         <option value="TrackPoint" />
