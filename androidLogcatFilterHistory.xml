@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="Plugin init maybe complete." />
     <option name="nonFavorites">
       <list>
+        <option value="Plugin init maybe complete." />
         <option value="package:mine " />
         <option value="~tag:ShimmerDrawable" />
         <option value="attachLocal local:" />
@@ -21,7 +23,6 @@
         <option value="shouldOverrideUrlLoading" />
         <option value="OnApprove" />
         <option value="PurchasePage" />
-        <option value="Pur" />
       </list>
     </option>
   </component>
