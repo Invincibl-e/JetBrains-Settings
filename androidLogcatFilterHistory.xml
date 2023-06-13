@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Plugin init maybe complete." />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="Plugin init maybe complete." />
         <option value="package:mine " />
+        <option value="Plugin init maybe complete." />
         <option value="~tag:ShimmerDrawable" />
         <option value="attachLocal local:" />
         <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
