@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:VirtualKernel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VirtualKernel" />
         <option value="package:mine " />
         <option value="attachLocal local:" />
         <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
@@ -21,7 +23,6 @@
         <option value="OnApprove" />
         <option value="PurchasePage" />
         <option value="Pur" />
-        <option value="return" />
       </list>
     </option>
   </component>
