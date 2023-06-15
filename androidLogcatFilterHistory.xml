@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="package:com.taptap.payment.UnityDemo" />
@@ -21,7 +23,6 @@
         <option value="SQLite" />
         <option value="Payment" />
         <option value="-tag:BLASTBufferQueue" />
-        <option value="package:com.taptap.payment.UnityDemo &amp; -tag:BLASTBufferQueue" />
       </list>
     </option>
   </component>
