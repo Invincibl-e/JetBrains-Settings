@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VirtualKernel" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="VirtualKernel" />
+        <option value="getprop" />
         <option value="package:mine " />
         <option value="Plugin init maybe complete." />
         <option value="~tag:ShimmerDrawable" />
@@ -22,7 +23,6 @@
         <option value="package:com.taptap.payment.UnityDemo &amp;&amp; -tag:BLASTBufferQueue" />
         <option value="package:com.taptap.payment.UnityDemo" />
         <option value="shouldOverrideUrlLoading" />
-        <option value="OnApprove" />
       </list>
     </option>
   </component>
