@@ -1,28 +1,7 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:VirtualKernel" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:VirtualKernel" />
-        <option value="package:mine " />
-        <option value="attachLocal local:" />
-        <option value="package:mine  &amp; -tag:BLASTBufferQueue" />
-        <option value="TrackPoint" />
-        <option value="package:com.hanjiasongshu.qkjh" />
-        <option value="tag:Bridge" />
-        <option value="Bridge" />
-        <option value="tag:TapEngine" />
-        <option value="TapEngine" />
-        <option value="SQLite" />
-        <option value="Payment" />
-        <option value="-tag:BLASTBufferQueue" />
-        <option value="package:com.taptap.payment.UnityDemo &amp; -tag:BLASTBufferQueue" />
-        <option value="package:com.taptap.payment.UnityDemo &amp;&amp; -tag:BLASTBufferQueue" />
-        <option value="package:com.taptap.payment.UnityDemo" />
-        <option value="shouldOverrideUrlLoading" />
-        <option value="OnApprove" />
-        <option value="PurchasePage" />
-        <option value="Pur" />
       </list>
     </option>
   </component>
