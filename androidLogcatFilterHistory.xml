@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="PaymentA" />
     <option name="nonFavorites">
       <list>
+        <option value="PaymentA" />
         <option value="package:mine " />
         <option value="Plugin" />
         <option value="PaymentApplication" />
         <option value="Payment" />
-        <option value="PaymentA" />
         <option value="PaymentApp" />
         <option value="BraintreeActivity" />
         <option value="tag:TapPaySDKLoader" />
