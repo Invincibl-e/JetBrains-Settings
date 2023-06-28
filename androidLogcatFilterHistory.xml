@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="PaymentApp" />
+        <option value="BraintreeActivity" />
         <option value="tag:TapPaySDKLoader" />
         <option value="TapPaymentDynamicImpl" />
         <option value="package:mine " />
