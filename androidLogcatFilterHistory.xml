@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="PaymentApp" />
     <option name="nonFavorites">
       <list>
+        <option value="PaymentApp" />
         <option value="package:mine " />
         <option value="PaymentS" />
         <option value="IntentReceiveActivity" />
         <option value="package:mine" />
-        <option value="PaymentApp" />
         <option value="PaymentA" />
         <option value="Plugin" />
         <option value="PaymentApplication" />
