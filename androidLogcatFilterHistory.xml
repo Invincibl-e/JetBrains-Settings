@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentApp" />
+    <option name="mostRecentlyUsed" value="BraintreeActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="BraintreeActivity" />
         <option value="PaymentApp" />
         <option value="package:mine " />
         <option value="PaymentS" />
@@ -12,7 +13,6 @@
         <option value="Plugin" />
         <option value="PaymentApplication" />
         <option value="Payment" />
-        <option value="BraintreeActivity" />
         <option value="tag:TapPaySDKLoader" />
         <option value="TapPaymentDynamicImpl" />
         <option value="TapPaySDKLoader" />
