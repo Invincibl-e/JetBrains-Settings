@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="-tag:BLASTBufferQueue" />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:BLASTBufferQueue" />
         <option value="package:mine " />
         <option value="pageState" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="Load" />
         <option value="package:com.taptap.global" />
         <option value="package:com.taptap.globa" />
-        <option value="package:com.taptap.payment.unitydemo " />
       </list>
     </option>
   </component>
