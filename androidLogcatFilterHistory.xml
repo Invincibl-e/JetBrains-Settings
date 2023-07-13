@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="package:mine " />
+        <option value="level:error " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="pageState" />
         <option value="package:mine" />
