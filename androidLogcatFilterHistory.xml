@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="Activity" />
         <option value="package:mine " />
+        <option value="Activity" />
         <option value="tag:Unity" />
         <option value="tag:ActivityTaskManager " />
         <option value="level:error " />
