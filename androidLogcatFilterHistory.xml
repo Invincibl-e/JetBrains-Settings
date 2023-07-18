@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="Activity" />
     <option name="nonFavorites">
       <list>
+        <option value="Activity" />
         <option value="package:mine " />
         <option value="tag:Unity" />
         <option value="tag:ActivityTaskManager " />
@@ -21,7 +23,6 @@
         <option value="TapPaymentDynamicImpl" />
         <option value="TapPaySDKLoader" />
         <option value="TapSDK" />
-        <option value="TapPaySDKLoader.loadSDK" />
       </list>
     </option>
   </component>
