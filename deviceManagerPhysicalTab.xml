@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="8b8b0cff" />
+          </Key>
+        </key>
+        <name value="vivo V1965A" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="85EACNJGMW3W" />
           </Key>
         </key>
@@ -400,17 +411,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="8b8b0cff" />
-          </Key>
-        </key>
-        <name value="vivo V1965A" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="345687715000192" />
           </Key>
         </key>
@@ -504,6 +504,28 @@
         <name value="vivo V2055A" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="455932554d453098" />
+          </Key>
+        </key>
+        <name value="samsung SM-G965U1" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R28M30ZL32Y" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9750" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

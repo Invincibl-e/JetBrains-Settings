@@ -1,7 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="ActivityTask" />
+        <option value="Activity" />
+        <option value="tag:Unity" />
+        <option value="tag:ActivityTaskManager " />
+        <option value="level:error " />
+        <option value="-tag:BLASTBufferQueue" />
+        <option value="pageState" />
+        <option value="package:mine" />
+        <option value="PaymentApplication" />
+        <option value="Payment" />
+        <option value="BraintreeActivity" />
+        <option value="PaymentApp" />
+        <option value="PaymentS" />
+        <option value="IntentReceiveActivity" />
+        <option value="PaymentA" />
+        <option value="Plugin" />
+        <option value="tag:TapPaySDKLoader" />
+        <option value="TapPaymentDynamicImpl" />
+        <option value="TapPaySDKLoader" />
       </list>
     </option>
   </component>
