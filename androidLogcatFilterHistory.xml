@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:AlipayActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AlipayActivity" />
         <option value="package:mine " />
         <option value="ActivityTask" />
         <option value="Activity" />
@@ -21,7 +23,6 @@
         <option value="Plugin" />
         <option value="tag:TapPaySDKLoader" />
         <option value="TapPaymentDynamicImpl" />
-        <option value="TapPaySDKLoader" />
       </list>
     </option>
   </component>
