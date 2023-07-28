@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PaymentActivity" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="tag:PaymentActivity" />
         <option value="package:mine " />
         <option value="ActivityTask" />
@@ -12,7 +13,6 @@
         <option value="level:error " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="pageState" />
-        <option value="package:mine" />
         <option value="PaymentApplication" />
         <option value="Payment" />
         <option value="BraintreeActivity" />
