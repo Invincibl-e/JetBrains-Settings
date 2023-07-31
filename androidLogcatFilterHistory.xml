@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="pay" />
+        <option value="pay.xd" />
         <option value="package:mine " />
         <option value="tag:PaymentActivity " />
         <option value="package:mine" />
@@ -20,8 +23,6 @@
         <option value="PaymentS" />
         <option value="IntentReceiveActivity" />
         <option value="PaymentA" />
-        <option value="Plugin" />
-        <option value="tag:TapPaySDKLoader" />
       </list>
     </option>
   </component>
