@@ -1,14 +1,13 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
-    <option name="lastVersion" value="1.4.0" />
+    <option name="lastVersion" value="1.5.3" />
     <option name="remotes">
       <map>
         <entry key="https://git.gametaptap.com/tds/client-sdk/shadow-taptap">
           <value>
             <state><![CDATA[{
   "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/shadow-taptap",
-  "gitlabUrl": "https://git.gametaptap.com/api/v4",
-  "remoteId": null
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
 }]]></state>
           </value>
         </entry>
@@ -16,8 +15,7 @@
           <value>
             <state><![CDATA[{
   "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/tappayment-android",
-  "gitlabUrl": "https://git.gametaptap.com/api/v4",
-  "remoteId": null
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
 }]]></state>
           </value>
         </entry>
