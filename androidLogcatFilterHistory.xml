@@ -3,7 +3,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="tag:AlipayActivity" />
+        <option value="tag:PaymentActivity " />
+        <option value="package:mine" />
+        <option value="tag:PaymentActivity" />
         <option value="ActivityTask" />
         <option value="Activity" />
         <option value="tag:Unity" />
@@ -11,7 +13,6 @@
         <option value="level:error " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="pageState" />
-        <option value="package:mine" />
         <option value="PaymentApplication" />
         <option value="Payment" />
         <option value="BraintreeActivity" />
@@ -21,7 +22,6 @@
         <option value="PaymentA" />
         <option value="Plugin" />
         <option value="tag:TapPaySDKLoader" />
-        <option value="TapPaymentDynamicImpl" />
       </list>
     </option>
   </component>
