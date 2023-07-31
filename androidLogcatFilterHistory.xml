@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="maybe" />
     <option name="nonFavorites">
       <list>
+        <option value="maybe" />
         <option value="pay" />
         <option value="pay.xd" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="PaymentApp" />
         <option value="PaymentS" />
         <option value="IntentReceiveActivity" />
-        <option value="PaymentA" />
       </list>
     </option>
   </component>
