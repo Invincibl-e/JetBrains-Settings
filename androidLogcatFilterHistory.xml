@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ActivityT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="ActivityT" />
         <option value="package:com.taptap.global " />
         <option value="PaymentApplication" />
         <option value="onConsoleMessage" />
-        <option value="package:mine " />
         <option value="execute" />
         <option value="-tag:BLASTBufferQueue &amp; package:mine " />
         <option value="package:mine &amp; ~tag:BLASTBufferQueue" />
