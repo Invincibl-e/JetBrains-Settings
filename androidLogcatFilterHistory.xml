@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentApplication" />
+    <option name="mostRecentlyUsed" value="package:com.taptap.global " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.taptap.global " />
         <option value="PaymentApplication" />
         <option value="onConsoleMessage" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="-tag:BLASTBufferQueue" />
         <option value="pageState" />
-        <option value="Payment" />
       </list>
     </option>
   </component>
