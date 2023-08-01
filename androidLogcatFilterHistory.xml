@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag:BLASTBufferQueue &amp; package:mine " />
+    <option name="mostRecentlyUsed" value="execute" />
     <option name="nonFavorites">
       <list>
+        <option value="execute" />
         <option value="-tag:BLASTBufferQueue &amp; package:mine " />
         <option value="package:mine &amp; ~tag:BLASTBufferQueue" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="PaymentApplication" />
         <option value="Payment" />
         <option value="BraintreeActivity" />
-        <option value="PaymentApp" />
       </list>
     </option>
   </component>
