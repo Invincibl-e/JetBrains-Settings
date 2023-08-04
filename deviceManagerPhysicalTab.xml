@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="24261FDF60019M" />
+          </Key>
+        </key>
+        <name value="Google AOSP on Oriole" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="29f302158b3f7ece" />
           </Key>
         </key>
         <name value="samsung SM-G9650" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="24261FDF60019M" />
-          </Key>
-        </key>
-        <name value="Google AOSP on Oriole" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
