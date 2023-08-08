@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="resources" />
         <option value="package:mine " />
         <option value="ActivityT" />
         <option value="package:com.taptap.global " />
@@ -22,7 +23,6 @@
         <option value="tag:Unity" />
         <option value="tag:ActivityTaskManager " />
         <option value="level:error " />
-        <option value="-tag:BLASTBufferQueue" />
       </list>
     </option>
   </component>
