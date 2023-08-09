@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="frida" />
         <option value="package:mine " />
+        <option value="frida" />
         <option value="resources" />
         <option value="ActivityT" />
         <option value="package:com.taptap.global " />
