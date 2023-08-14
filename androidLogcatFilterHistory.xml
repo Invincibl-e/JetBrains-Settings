@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentApplication" />
+    <option name="mostRecentlyUsed" value="ActivityThread" />
     <option name="nonFavorites">
       <list>
+        <option value="ActivityThread" />
         <option value="PaymentApplication" />
         <option value="package:com.taptap.payment.UnityDemo" />
         <option value="package:com.taptap.payment.UnityDemo &amp; tag:PaymentApplication" />
@@ -22,7 +23,6 @@
         <option value="tag:PaymentActivity " />
         <option value="package:mine" />
         <option value="tag:PaymentActivity" />
-        <option value="ActivityTask" />
       </list>
     </option>
   </component>
