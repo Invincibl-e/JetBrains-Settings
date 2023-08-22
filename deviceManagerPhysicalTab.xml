@@ -416,7 +416,7 @@
         </key>
         <name value="OPPO PCLM50" />
         <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <api value="androidversion:31:null:1:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
