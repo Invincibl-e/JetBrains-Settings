@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="95dfe3e2" />
+          </Key>
+        </key>
+        <name value="vivo Xplay5S" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="24261FDF60019M" />
           </Key>
         </key>
@@ -286,17 +297,6 @@
         <name value="HUAWEI JEF-AN00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="95dfe3e2" />
-          </Key>
-        </key>
-        <name value="vivo Xplay5S" />
-        <target value="Android 6.0" />
-        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
