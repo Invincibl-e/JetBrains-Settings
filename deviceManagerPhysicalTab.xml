@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="95dfe3e2" />
-          </Key>
-        </key>
-        <name value="vivo Xplay5S" />
-        <target value="Android 6.0" />
-        <api value="androidversion:23:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="24261FDF60019M" />
           </Key>
         </key>
         <name value="Google AOSP on Oriole" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="95dfe3e2" />
+          </Key>
+        </key>
+        <name value="vivo Xplay5S" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
