@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="=" />
         <option value="PaymentApplication" />
         <option value="Payment" />
-        <option value="package:mine " />
         <option value="Plugin init maybe complete" />
         <option value="tag:PaymentUpdater" />
         <option value="PaymentUpdater" />
@@ -22,7 +22,6 @@
         <option value="ActivityT" />
         <option value="package:com.taptap.global " />
         <option value="onConsoleMessage" />
-        <option value="execute" />
       </list>
     </option>
   </component>
