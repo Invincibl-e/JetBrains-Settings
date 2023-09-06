@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentApplication" />
+    <option name="mostRecentlyUsed" value="onPaymentEventCallback" />
     <option name="nonFavorites">
       <list>
+        <option value="onPaymentEventCallback" />
         <option value="PaymentApplication" />
         <option value="package:mine " />
         <option value="=" />
@@ -22,7 +23,6 @@
         <option value="resources" />
         <option value="ActivityT" />
         <option value="package:com.taptap.global " />
-        <option value="onConsoleMessage" />
       </list>
     </option>
   </component>
