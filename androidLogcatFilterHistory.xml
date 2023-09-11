@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="onPaymentEventCallback" />
     <option name="nonFavorites">
       <list>
-        <option value=" PaymentApplication   " />
         <option value="onPaymentEventCallback" />
+        <option value=" PaymentApplication   " />
         <option value="PaymentApplication" />
         <option value="package:mine " />
         <option value="=" />
