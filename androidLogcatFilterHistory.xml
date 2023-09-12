@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PluginContainerActivity" />
+    <option name="mostRecentlyUsed" value="PackageResourceProxy" />
     <option name="nonFavorites">
       <list>
+        <option value="PackageResourceProxy" />
         <option value="PluginContainerActivity" />
         <option value="SampleComponentManager" />
         <option value="onPaymentEventCallback" />
@@ -22,7 +23,6 @@
         <option value="ActivityThread" />
         <option value="package:com.taptap.payment.UnityDemo &amp; tag:PaymentApplication" />
         <option value="package:com.taptap.payment.UnityDemo " />
-        <option value="frida" />
       </list>
     </option>
   </component>
