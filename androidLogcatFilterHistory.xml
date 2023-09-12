@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="PackageResourceProxy" />
     <option name="nonFavorites">
       <list>
         <option value="PackageResourceProxy" />
+        <option value="config: Configuration?, metrics: DisplayMetrics?" />
         <option value="PluginContainerActivity" />
         <option value="SampleComponentManager" />
         <option value="onPaymentEventCallback" />
@@ -22,7 +23,6 @@
         <option value="package:com.taptap.payment.UnityDemo" />
         <option value="ActivityThread" />
         <option value="package:com.taptap.payment.UnityDemo &amp; tag:PaymentApplication" />
-        <option value="package:com.taptap.payment.UnityDemo " />
       </list>
     </option>
   </component>
