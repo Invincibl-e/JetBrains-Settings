@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.taptap.payment.demo.dynamic " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.taptap.payment.demo.dynamic " />
         <option value="PackageResourceProxy" />
         <option value="config: Configuration?, metrics: DisplayMetrics?" />
@@ -11,7 +11,6 @@
         <option value="onPaymentEventCallback" />
         <option value=" PaymentApplication   " />
         <option value="PaymentApplication" />
-        <option value="package:mine " />
         <option value="=" />
         <option value="Payment" />
         <option value="Plugin init maybe complete" />
