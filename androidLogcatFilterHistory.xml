@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.tds.Demo " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.tds.Demo " />
         <option value="package:mine " />
+        <option value="package:com.tds.Demo " />
         <option value="package:com.taptap.payment.demo.dynamic " />
         <option value="PackageResourceProxy" />
         <option value="config: Configuration?, metrics: DisplayMetrics?" />
