@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="roomAnimationHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="roomAnimationHeight" />
+        <option value="roomAnimationHeight:mine " />
         <option value="package:mine " />
         <option value="ItemAnimator" />
         <option value="slideWithOrientation" />
@@ -20,8 +23,6 @@
         <option value="tag:PaymentUpdater" />
         <option value="PaymentUpdater" />
         <option value="entry" />
-        <option value="tryLock" />
-        <option value="-tag:BLASTBufferQueue &amp; package:com.taptap.payment.UnityDemo" />
       </list>
     </option>
   </component>
