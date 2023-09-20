@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="roomAnimationHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="roomAnimationHeight" />
         <option value="roomAnimationHeight:mine " />
-        <option value="package:mine " />
         <option value="ItemAnimator" />
         <option value="slideWithOrientation" />
         <option value="package:com.tds.Demo " />
