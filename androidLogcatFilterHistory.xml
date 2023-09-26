@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  &#10;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  &#10;" />
         <option value="package:mine " />
         <option value="roomAnimationHeight" />
         <option value="roomAnimationHeight:mine " />
@@ -21,7 +23,6 @@
         <option value="Plugin init maybe complete" />
         <option value="tag:PaymentUpdater" />
         <option value="PaymentUpdater" />
-        <option value="entry" />
       </list>
     </option>
   </component>
