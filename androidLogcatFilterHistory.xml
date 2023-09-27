@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onTouch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="onTouch" />
         <option value="package:mine  &#10;" />
-        <option value="package:mine " />
         <option value="roomAnimationHeight" />
         <option value="roomAnimationHeight:mine " />
         <option value="ItemAnimator" />
