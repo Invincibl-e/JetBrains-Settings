@@ -3,6 +3,14 @@
     <option name="lastVersion" value="1.5.3" />
     <option name="remotes">
       <map>
+        <entry key="https://git.gametaptap.com/Invincible/android-CI">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/Invincible/android-CI",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://git.gametaptap.com/tds/client-sdk/shadow-taptap">
           <value>
             <state><![CDATA[{
