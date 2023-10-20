@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="shouldOver" />
     <option name="nonFavorites">
       <list>
+        <option value="shouldOver" />
         <option value="package:mine " />
         <option value="onTouch" />
         <option value="package:mine  &#10;" />
@@ -21,7 +23,6 @@
         <option value="=" />
         <option value="Payment" />
         <option value="Plugin init maybe complete" />
-        <option value="tag:PaymentUpdater" />
       </list>
     </option>
   </component>
