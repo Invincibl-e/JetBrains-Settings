@@ -27,6 +27,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://git.gametaptap.com/tds/client-sdk/tds-sdk-all/tapsdk2/tapsdk2-android">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/tds-sdk-all/tapsdk2/tapsdk2-android",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
