@@ -11,6 +11,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://git.gametaptap.com/android/android-cn/sandbox-32-bit-plugin">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/android/android-cn/sandbox-32-bit-plugin",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://git.gametaptap.com/tds/client-sdk/shadow-taptap">
           <value>
             <state><![CDATA[{
