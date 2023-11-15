@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="onPaymentEventCallback" />
     <option name="nonFavorites">
       <list>
+        <option value="onPaymentEventCallback" />
         <option value="package:mine " />
         <option value="shouldOver" />
         <option value="onTouch" />
@@ -16,7 +18,6 @@
         <option value="config: Configuration?, metrics: DisplayMetrics?" />
         <option value="PluginContainerActivity" />
         <option value="SampleComponentManager" />
-        <option value="onPaymentEventCallback" />
         <option value=" PaymentApplication   " />
         <option value="PaymentApplication" />
         <option value="=" />
