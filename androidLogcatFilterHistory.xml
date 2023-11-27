@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="libutils.so" />
     <option name="nonFavorites">
       <list>
+        <option value="libutils.so" />
+        <option value="&#10;" />
+        <option value="libutils&#10;" />
+        <option value="libiGraphicsCore&#10;" />
+        <option value="dlopen &#10;" />
         <option value="package:mine " />
         <option value="package:com.l" />
         <option value="pac" />
@@ -18,11 +23,6 @@
         <option value="slideWithOrientation" />
         <option value="package:com.tds.Demo " />
         <option value="package:com.taptap.payment.demo.dynamic " />
-        <option value="PackageResourceProxy" />
-        <option value="config: Configuration?, metrics: DisplayMetrics?" />
-        <option value="PluginContainerActivity" />
-        <option value="SampleComponentManager" />
-        <option value=" PaymentApplication   " />
       </list>
     </option>
   </component>
