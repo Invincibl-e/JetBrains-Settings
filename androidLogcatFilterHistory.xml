@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="libutils" />
     <option name="nonFavorites">
       <list>
+        <option value="libutils" />
+        <option value="utils" />
+        <option value="util、" />
+        <option value="is_accessible" />
         <option value="failed to load layer library " />
         <option value="libutils.so" />
         <option value="&#10;" />
@@ -19,10 +23,6 @@
         <option value="onTouch" />
         <option value="package:mine  &#10;" />
         <option value="roomAnimationHeight" />
-        <option value="roomAnimationHeight:mine " />
-        <option value="ItemAnimator" />
-        <option value="slideWithOrientation" />
-        <option value="package:com.tds.Demo " />
       </list>
     </option>
   </component>
