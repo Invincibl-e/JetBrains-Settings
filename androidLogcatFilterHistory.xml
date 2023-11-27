@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.l" />
         <option value="package:mine " />
+        <option value="package:com.l" />
         <option value="pac" />
         <option value="package:com.taptap.payment.UnityDemo" />
         <option value="package:co" />
