@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="open_at_path" />
+    <option name="mostRecentlyUsed" value="g_linker_logger_ptr" />
     <option name="nonFavorites">
       <list>
+        <option value="g_linker_logger_ptr" />
         <option value="open_at_path" />
         <option value="package:mine " />
         <option value="libutils" />
@@ -22,7 +23,6 @@
         <option value="onPaymentEventCallback" />
         <option value="shouldOver" />
         <option value="onTouch" />
-        <option value="package:mine  &#10;" />
       </list>
     </option>
   </component>
