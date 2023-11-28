@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
     <option name="nonFavorites">
       <list>
+        <option value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
+        <option value="package:mine " />
         <option value="dlopen(name=&quot;" />
         <option value="package:com.tyjieyi.hjlvzhe" />
         <option value="searching for layers in" />
         <option value="searching for layers" />
         <option value="search" />
-        <option value="package:mine " />
         <option value="libiGraphicsCore" />
         <option value="hw" />
         <option value="dlopen" />
@@ -22,7 +23,6 @@
         <option value="utils" />
         <option value="util、" />
         <option value="is_accessible" />
-        <option value="failed to load layer library " />
       </list>
     </option>
   </component>
