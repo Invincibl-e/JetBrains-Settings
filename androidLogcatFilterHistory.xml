@@ -1,7 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="dlopen(name=&quot;" />
+        <option value="package:com.tyjieyi.hjlvzhe" />
+        <option value="searching for layers in" />
+        <option value="searching for layers" />
+        <option value="search" />
         <option value="package:mine " />
         <option value="libiGraphicsCore" />
         <option value="hw" />
@@ -17,11 +23,6 @@
         <option value="util、" />
         <option value="is_accessible" />
         <option value="failed to load layer library " />
-        <option value="libutils.so" />
-        <option value="&#10;" />
-        <option value="libutils&#10;" />
-        <option value="libiGraphicsCore&#10;" />
-        <option value="dlopen &#10;" />
       </list>
     </option>
   </component>
