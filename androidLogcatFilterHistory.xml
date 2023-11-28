@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="can not load local debug xml" />
+        <option value="dlopen" />
         <option value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
         <option value="dlopen(name=" />
         <option value="do_dlopen_CIVV" />
@@ -13,7 +16,6 @@
         <option value="search" />
         <option value="libiGraphicsCore" />
         <option value="hw" />
-        <option value="dlopen" />
         <option value="linker" />
         <option value="g_log_linker" />
         <option value="st_name" />
@@ -21,7 +23,6 @@
         <option value="g_linker_logger_ptr" />
         <option value="open_at_path" />
         <option value="libutils" />
-        <option value="utils" />
       </list>
     </option>
   </component>
