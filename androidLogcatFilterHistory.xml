@@ -3,9 +3,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="libiGraphicsCore" />
+        <option value="hw" />
         <option value="dlopen" />
-        <option value="g_log_linker" />
         <option value="linker" />
+        <option value="g_log_linker" />
         <option value="st_name" />
         <option value="g_linker_logger" />
         <option value="g_linker_logger_ptr" />
@@ -20,8 +22,6 @@
         <option value="libutils&#10;" />
         <option value="libiGraphicsCore&#10;" />
         <option value="dlopen &#10;" />
-        <option value="package:com.l" />
-        <option value="pac" />
       </list>
     </option>
   </component>
