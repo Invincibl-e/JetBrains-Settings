@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.taptap " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.taptap " />
         <option value="package:mine " />
+        <option value="package:com.taptap " />
         <option value="can not load local debug xml" />
         <option value="dlopen" />
         <option value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
