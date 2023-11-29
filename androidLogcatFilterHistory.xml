@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag~:sensors-hal &amp; -tag~:asd" />
     <option name="nonFavorites">
       <list>
-        <option value="-tag~:sensors-hal &amp; -tag~:asd" />
         <option value="package:mine " />
+        <option value="IActivityManager.checkPermission" />
+        <option value="MqwaSdk" />
+        <option value="enter_game" />
+        <option value="ThinkingAnalyticsSDK" />
+        <option value="oaid" />
+        <option value="-tag~:sensors-hal &amp; -tag~:asd" />
         <option value="package:com.taptap " />
         <option value="can not load local debug xml" />
         <option value="dlopen" />
@@ -18,11 +22,6 @@
         <option value="search" />
         <option value="libiGraphicsCore" />
         <option value="hw" />
-        <option value="linker" />
-        <option value="g_log_linker" />
-        <option value="st_name" />
-        <option value="g_linker_logger" />
-        <option value="g_linker_logger_ptr" />
       </list>
     </option>
   </component>
