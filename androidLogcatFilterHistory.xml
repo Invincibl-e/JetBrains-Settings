@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.taptap " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.taptap " />
         <option value="package:mine " />
         <option value="can not load local debug xml" />
         <option value="dlopen" />
@@ -21,7 +23,6 @@
         <option value="g_linker_logger" />
         <option value="g_linker_logger_ptr" />
         <option value="open_at_path" />
-        <option value="libutils" />
       </list>
     </option>
   </component>
