@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="TelephonyStub" />
     <option name="nonFavorites">
       <list>
+        <option value="TelephonyStub" />
         <option value="package:mine " />
         <option value="IActivityManager.checkPermission" />
         <option value="MqwaSdk" />
@@ -21,7 +23,6 @@
         <option value="searching for layers" />
         <option value="search" />
         <option value="libiGraphicsCore" />
-        <option value="hw" />
       </list>
     </option>
   </component>
