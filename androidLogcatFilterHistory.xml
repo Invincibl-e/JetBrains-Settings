@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:com.taptap.global " />
+        <option value="c" />
+        <option value="payment" />
+        <option value="package:mine" />
+        <option value=" &#10;" />
         <option value="TelephonyStub" />
         <option value="IActivityManager.checkPermission" />
         <option value="MqwaSdk" />
@@ -18,11 +22,6 @@
         <option value="dlopen(name=" />
         <option value="do_dlopen_CIVV" />
         <option value="dlopen(name=&quot;" />
-        <option value="package:com.tyjieyi.hjlvzhe" />
-        <option value="searching for layers in" />
-        <option value="searching for layers" />
-        <option value="search" />
-        <option value="libiGraphicsCore" />
       </list>
     </option>
   </component>
