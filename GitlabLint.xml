@@ -1,14 +1,29 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
-    <option name="lastVersion" value="1.4.0" />
+    <option name="lastVersion" value="1.13.2" />
     <option name="remotes">
       <map>
+        <entry key="https://git.gametaptap.com/Invincible/android-CI">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/Invincible/android-CI",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
+        <entry key="https://git.gametaptap.com/android/android-cn/sandbox-32-bit-plugin">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/android/android-cn/sandbox-32-bit-plugin",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://git.gametaptap.com/tds/client-sdk/shadow-taptap">
           <value>
             <state><![CDATA[{
   "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/shadow-taptap",
-  "gitlabUrl": "https://git.gametaptap.com/api/v4",
-  "remoteId": null
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
 }]]></state>
           </value>
         </entry>
@@ -16,8 +31,15 @@
           <value>
             <state><![CDATA[{
   "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/tappayment-android",
-  "gitlabUrl": "https://git.gametaptap.com/api/v4",
-  "remoteId": null
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
+        <entry key="https://git.gametaptap.com/tds/client-sdk/tds-sdk-all/tapsdk2/tapsdk2-android">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://git.gametaptap.com/tds/client-sdk/tds-sdk-all/tapsdk2/tapsdk2-android",
+  "gitlabUrl": "https://git.gametaptap.com/api/v4"
 }]]></state>
           </value>
         </entry>

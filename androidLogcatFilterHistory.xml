@@ -4,25 +4,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="tag:PaymentActivity " />
+        <option value="package:com.taptap.global " />
+        <option value="c" />
+        <option value="payment" />
         <option value="package:mine" />
-        <option value="tag:PaymentActivity" />
-        <option value="ActivityTask" />
-        <option value="Activity" />
-        <option value="tag:Unity" />
-        <option value="tag:ActivityTaskManager " />
-        <option value="level:error " />
-        <option value="-tag:BLASTBufferQueue" />
-        <option value="pageState" />
-        <option value="PaymentApplication" />
-        <option value="Payment" />
-        <option value="BraintreeActivity" />
-        <option value="PaymentApp" />
-        <option value="PaymentS" />
-        <option value="IntentReceiveActivity" />
-        <option value="PaymentA" />
-        <option value="Plugin" />
-        <option value="tag:TapPaySDKLoader" />
+        <option value=" &#10;" />
+        <option value="TelephonyStub" />
+        <option value="IActivityManager.checkPermission" />
+        <option value="MqwaSdk" />
+        <option value="enter_game" />
+        <option value="ThinkingAnalyticsSDK" />
+        <option value="oaid" />
+        <option value="-tag~:sensors-hal &amp; -tag~:asd" />
+        <option value="package:com.taptap " />
+        <option value="can not load local debug xml" />
+        <option value="dlopen" />
+        <option value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
+        <option value="dlopen(name=" />
+        <option value="do_dlopen_CIVV" />
+        <option value="dlopen(name=&quot;" />
       </list>
     </option>
   </component>
