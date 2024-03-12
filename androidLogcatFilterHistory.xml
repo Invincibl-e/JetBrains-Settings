@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="error" />
         <option value="package:mine " />
         <option value="package:com.taptap.global " />
         <option value="c" />
@@ -22,7 +23,6 @@
         <option value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
         <option value="dlopen(name=" />
         <option value="do_dlopen_CIVV" />
-        <option value="dlopen(name=&quot;" />
       </list>
     </option>
   </component>
