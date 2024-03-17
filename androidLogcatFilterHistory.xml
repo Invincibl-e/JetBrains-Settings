@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.express.autolive" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.express.autolive" />
+        <option value="LoopBa" />
         <option value="error" />
         <option value="package:mine " />
         <option value="package:com.taptap.global " />
@@ -21,8 +23,6 @@
         <option value="can not load local debug xml" />
         <option value="dlopen" />
         <option value="dlopen(name=&quot;/system/lib64/libiGraphicsCore.huawei.so" />
-        <option value="dlopen(name=" />
-        <option value="do_dlopen_CIVV" />
       </list>
     </option>
   </component>
