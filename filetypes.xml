@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="anr_2022-06-17-18-36-51-277" type="AUTO_DETECTED" />
+      <mapping pattern="installationNum" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ini" type="PLAIN_TEXT" />
