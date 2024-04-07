@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="xor" />
         <option value="setLatestComponent" />
         <option value="xorString" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="oaid" />
         <option value="-tag~:sensors-hal &amp; -tag~:asd" />
         <option value="package:com.taptap " />
-        <option value="can not load local debug xml" />
       </list>
     </option>
   </component>
