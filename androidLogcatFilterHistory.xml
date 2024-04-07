@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="setLatestComponent" />
         <option value="xorString" />
+        <option value="package:mine " />
         <option value="package:com.express.autolive" />
         <option value="LoopBa" />
         <option value="error" />
@@ -21,7 +23,6 @@
         <option value="-tag~:sensors-hal &amp; -tag~:asd" />
         <option value="package:com.taptap " />
         <option value="can not load local debug xml" />
-        <option value="dlopen" />
       </list>
     </option>
   </component>
