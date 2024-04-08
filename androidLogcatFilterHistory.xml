@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:onAccessibilityEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:onAccessibilityEvent" />
         <option value="package:mine " />
         <option value="onAccessibilityEvent" />
         <option value="xor" />
@@ -21,7 +23,6 @@
         <option value="enter_game" />
         <option value="ThinkingAnalyticsSDK" />
         <option value="oaid" />
-        <option value="-tag~:sensors-hal &amp; -tag~:asd" />
       </list>
     </option>
   </component>
