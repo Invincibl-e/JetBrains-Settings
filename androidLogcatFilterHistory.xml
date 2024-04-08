@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; tag:onAccessibilityEvent" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine &amp; tag:onAccessibilityEvent" />
         <option value="package:mine " />
         <option value="onAccessibilityEvent" />
@@ -15,7 +16,6 @@
         <option value="package:com.taptap.global " />
         <option value="c" />
         <option value="payment" />
-        <option value="package:mine" />
         <option value=" &#10;" />
         <option value="TelephonyStub" />
         <option value="IActivityManager.checkPermission" />
