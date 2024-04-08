@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="xor" />
+    <option name="mostRecentlyUsed" value="onAccessibilityEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="onAccessibilityEvent" />
         <option value="xor" />
         <option value="setLatestComponent" />
         <option value="xorString" />
@@ -22,7 +23,6 @@
         <option value="ThinkingAnalyticsSDK" />
         <option value="oaid" />
         <option value="-tag~:sensors-hal &amp; -tag~:asd" />
-        <option value="package:com.taptap " />
       </list>
     </option>
   </component>
