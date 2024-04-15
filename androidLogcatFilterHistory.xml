@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="MainActivity" />
         <option value="package:mine" />
         <option value="package:mine &amp; tag:onAccessibilityEvent" />
         <option value="onAccessibilityEvent" />
@@ -21,7 +22,6 @@
         <option value="MqwaSdk" />
         <option value="enter_game" />
         <option value="ThinkingAnalyticsSDK" />
-        <option value="oaid" />
       </list>
     </option>
   </component>
