@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="resolveAsFile" />
     <option name="nonFavorites">
       <list>
-        <option value="resolveAsFile" />
-        <option value="RequireXXXXX" />
         <option value="package:mine " />
         <option value="_load" />
+        <option value="resolveAsFile" />
+        <option value="RequireXXXXX" />
         <option value="RequireXXXXXCCC" />
         <option value="Require" />
         <option value="MainActivity" />
