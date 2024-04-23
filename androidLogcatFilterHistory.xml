@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RequireXXXXX" />
+    <option name="mostRecentlyUsed" value="resolveAsFile" />
     <option name="nonFavorites">
       <list>
+        <option value="resolveAsFile" />
         <option value="RequireXXXXX" />
+        <option value="package:mine " />
+        <option value="_load" />
         <option value="RequireXXXXXCCC" />
         <option value="Require" />
-        <option value="package:mine " />
         <option value="MainActivity" />
         <option value="package:mine" />
         <option value="package:mine &amp; tag:onAccessibilityEvent" />
@@ -21,8 +23,6 @@
         <option value="c" />
         <option value="payment" />
         <option value=" &#10;" />
-        <option value="TelephonyStub" />
-        <option value="IActivityManager.checkPermission" />
       </list>
     </option>
   </component>
