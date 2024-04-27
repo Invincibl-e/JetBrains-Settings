@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="com.auto" />
         <option value="package:mine " />
         <option value="package:com.express.autolive " />
         <option value="_load" />
@@ -21,7 +23,6 @@
         <option value="error" />
         <option value="package:com.taptap.global " />
         <option value="c" />
-        <option value="payment" />
       </list>
     </option>
   </component>
