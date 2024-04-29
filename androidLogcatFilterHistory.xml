@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="requestAppUsagePermission" />
     <option name="nonFavorites">
       <list>
-        <option value="requestAppUsagePermission" />
         <option value="package:mine " />
+        <option value="requestAppUsagePermission" />
         <option value="com.auto" />
         <option value="package:com.express.autolive " />
         <option value="_load" />
