@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="requestAppUsagePermission" />
     <option name="nonFavorites">
       <list>
+        <option value="requestAppUsagePermission" />
         <option value="package:mine " />
         <option value="com.auto" />
         <option value="package:com.express.autolive " />
@@ -21,7 +23,6 @@
         <option value="LoopBa" />
         <option value="error" />
         <option value="package:com.taptap.global " />
-        <option value="c" />
       </list>
     </option>
   </component>
