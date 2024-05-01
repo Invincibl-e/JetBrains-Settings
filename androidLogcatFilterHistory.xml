@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.express.autolive " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:com.express.autolive " />
         <option value="package:mine " />
         <option value="requestAppUsagePermission" />
@@ -13,7 +14,6 @@
         <option value="RequireXXXXXCCC" />
         <option value="Require" />
         <option value="MainActivity" />
-        <option value="package:mine" />
         <option value="package:mine &amp; tag:onAccessibilityEvent" />
         <option value="onAccessibilityEvent" />
         <option value="xor" />
