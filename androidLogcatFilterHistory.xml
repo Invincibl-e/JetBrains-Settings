@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:com.express.autolive" />
         <option value="package:mine" />
         <option value="package:com.express.autolive " />
-        <option value="package:mine " />
         <option value="requestAppUsagePermission" />
         <option value="com.auto" />
         <option value="_load" />
@@ -19,7 +19,6 @@
         <option value="xor" />
         <option value="setLatestComponent" />
         <option value="xorString" />
-        <option value="package:com.express.autolive" />
         <option value="LoopBa" />
         <option value="error" />
         <option value="package:com.taptap.global " />
