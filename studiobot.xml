@@ -2,10 +2,5 @@
   <component name="StudioBotSettings">
     <option name="contextSharingMode" value="ALWAYS_SHARE" />
     <option name="onboardedVersion" value="3" />
-    <option name="queryHistory">
-      <list>
-        <historyEntry timestamp="1714771487925">你好</historyEntry>
-      </list>
-    </option>
   </component>
 </application>
